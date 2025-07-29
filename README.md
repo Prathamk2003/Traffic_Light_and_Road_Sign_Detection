@@ -1,4 +1,4 @@
-# Traffic_Light_and_Road_Sign_Detection
+# Traffic_Light_and_Road_Sign_Detection 
 
 This repository contains two Jupyter Notebooks designed for custom object detection using PyTorch and YOLOv5. The code includes custom dataset parsing from XML annotations, creating PyTorch `Dataset` and `DataLoader` classes, and setting up training pipelines.
 
